@@ -11,7 +11,7 @@
 
 ## usage
 ```
-   go get github/golang-boy/bytesize
+   go get github.com/golang-boy/bytesize
 ```
 
 ```
